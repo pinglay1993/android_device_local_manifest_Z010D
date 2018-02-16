@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	This manifest is for LineageOS 15.1 for Asus Zenfone Max Z010D
+-->
+<manifest>
+	<project name="AyonAB/android_device_asus_Z010D/tree/O" path="device/asus/z010d" remote="github" revision="O" />
+	<project name="AyonAB/android_vendor_asus/tree/O" path="vendor/asus" remote="github" revision="O" />
+	<project name="AyonAB/android_kernel_asus_msm8939/tree/O" path="kernel/asus/z010d" remote="github" revision="O" />
+</manifest>
